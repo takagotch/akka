@@ -8,4 +8,3 @@ https://akka.io/
 ```
 ```
 
-### akka
